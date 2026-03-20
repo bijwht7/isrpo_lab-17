@@ -1,0 +1,15 @@
+C:\Users\Student_08\Documents\lab17\code\Step6_StairsClimb\obj\Debug\net10.0\Step6_StairsClimb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_08\Documents\lab17\code\Step6_StairsClimb\obj\Debug\net10.0\Step6_StairsClimb.AssemblyInfoInputs.cache
+C:\Users\Student_08\Documents\lab17\code\Step6_StairsClimb\obj\Debug\net10.0\Step6_StairsClimb.AssemblyInfo.cs
+C:\Users\Student_08\Documents\lab17\code\Step6_StairsClimb\obj\Debug\net10.0\Step6_StairsClimb.csproj.CoreCompileInputs.cache
+C:\Users\Student_08\Documents\lab17\code\Step6_StairsClimb\obj\Debug\net10.0\Step6_StairsClimb.sourcelink.json
+C:\Users\Student_08\Documents\lab17\code\Step6_StairsClimb\bin\Debug\net10.0\Step6_StairsClimb.exe
+C:\Users\Student_08\Documents\lab17\code\Step6_StairsClimb\bin\Debug\net10.0\Step6_StairsClimb.deps.json
+C:\Users\Student_08\Documents\lab17\code\Step6_StairsClimb\bin\Debug\net10.0\Step6_StairsClimb.runtimeconfig.json
+C:\Users\Student_08\Documents\lab17\code\Step6_StairsClimb\bin\Debug\net10.0\Step6_StairsClimb.dll
+C:\Users\Student_08\Documents\lab17\code\Step6_StairsClimb\bin\Debug\net10.0\Step6_StairsClimb.pdb
+C:\Users\Student_08\Documents\lab17\code\Step6_StairsClimb\obj\Debug\net10.0\Step6_StairsClimb.dll
+C:\Users\Student_08\Documents\lab17\code\Step6_StairsClimb\obj\Debug\net10.0\refint\Step6_StairsClimb.dll
+C:\Users\Student_08\Documents\lab17\code\Step6_StairsClimb\obj\Debug\net10.0\Step6_StairsClimb.pdb
+C:\Users\Student_08\Documents\lab17\code\Step6_StairsClimb\obj\Debug\net10.0\Step6_StairsClimb.genruntimeconfig.cache
+C:\Users\Student_08\Documents\lab17\code\Step6_StairsClimb\obj\Debug\net10.0\ref\Step6_StairsClimb.dll
