@@ -1,0 +1,15 @@
+C:\Users\Student_08\Documents\lab17\code\Step5_GradeCheck\obj\Debug\net10.0\Step5_GradeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_08\Documents\lab17\code\Step5_GradeCheck\obj\Debug\net10.0\Step5_GradeCheck.AssemblyInfoInputs.cache
+C:\Users\Student_08\Documents\lab17\code\Step5_GradeCheck\obj\Debug\net10.0\Step5_GradeCheck.AssemblyInfo.cs
+C:\Users\Student_08\Documents\lab17\code\Step5_GradeCheck\obj\Debug\net10.0\Step5_GradeCheck.csproj.CoreCompileInputs.cache
+C:\Users\Student_08\Documents\lab17\code\Step5_GradeCheck\obj\Debug\net10.0\Step5_GradeCheck.sourcelink.json
+C:\Users\Student_08\Documents\lab17\code\Step5_GradeCheck\bin\Debug\net10.0\Step5_GradeCheck.exe
+C:\Users\Student_08\Documents\lab17\code\Step5_GradeCheck\bin\Debug\net10.0\Step5_GradeCheck.deps.json
+C:\Users\Student_08\Documents\lab17\code\Step5_GradeCheck\bin\Debug\net10.0\Step5_GradeCheck.runtimeconfig.json
+C:\Users\Student_08\Documents\lab17\code\Step5_GradeCheck\bin\Debug\net10.0\Step5_GradeCheck.dll
+C:\Users\Student_08\Documents\lab17\code\Step5_GradeCheck\bin\Debug\net10.0\Step5_GradeCheck.pdb
+C:\Users\Student_08\Documents\lab17\code\Step5_GradeCheck\obj\Debug\net10.0\Step5_GradeCheck.dll
+C:\Users\Student_08\Documents\lab17\code\Step5_GradeCheck\obj\Debug\net10.0\refint\Step5_GradeCheck.dll
+C:\Users\Student_08\Documents\lab17\code\Step5_GradeCheck\obj\Debug\net10.0\Step5_GradeCheck.pdb
+C:\Users\Student_08\Documents\lab17\code\Step5_GradeCheck\obj\Debug\net10.0\Step5_GradeCheck.genruntimeconfig.cache
+C:\Users\Student_08\Documents\lab17\code\Step5_GradeCheck\obj\Debug\net10.0\ref\Step5_GradeCheck.dll
